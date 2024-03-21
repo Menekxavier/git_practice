@@ -1,0 +1,2 @@
+so we were asked to perform a task on git and learn about how to initialize, commit, push and finally pull from a remote repo
+soo we
